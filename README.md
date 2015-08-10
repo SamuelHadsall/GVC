@@ -1,4 +1,4 @@
-GVC
+Wordpress
 ===
 
 Wordpress Theme

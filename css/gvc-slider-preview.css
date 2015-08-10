@@ -1,0 +1,197 @@
+/*====================================================================*/
+/*	GENERAL
+/*====================================================================*/
+	
+	.single-gvc-slider {
+		background-color: #fdfdfd !important;
+	}
+
+	.single-gvc-slider .page-content-container {
+		background-color: transparent !	important;
+		padding: 0 !important;
+	}
+
+	.single-gvc-slider #wrap {
+		-webkit-box-shadow: none;
+		box-shadow: none;
+		background-color: #fdfdfd !important;
+		min-height:auto !important;
+		margin: 0 auto !important;
+		padding-top: 30px;
+	}
+
+	.single-gvc-slider .header,
+	.single-gvc-slider .footer,
+	.single-gvc-slider .gvc-fixed-header-offset {
+		display: none !important;
+	}
+
+	.single-gvc-slider .gvc-slider-logo {
+		display: block;
+		text-align: center;
+		padding: 20px 0;
+	}
+
+	.single-gvc-slider .gvc-slider-logo a {
+		display: inline-block;
+	}
+
+	.single-gvc-slider #gvc-slider-preview-panel {
+		padding: 20px 0 10px 0;
+		font-family: Arial, Helvetica, sans-serif !important;
+		font-size: 13px !important;
+		line-height: 22px !important;
+	}
+
+	.single-gvc-slider #gvc-slider-preview-panel > div {
+		float: left;
+	}
+
+	#gvc-slider-preview-panel #gvc-slider-coords {
+		display: block;
+		width: 200px;
+		padding: 10px;
+		border:1px solid #e0e0e0;
+		background-color: #fff !important;
+		border-radius: 3px;
+		margin-bottom: 7px;
+		margin-right: 25px;
+	}
+
+	#gvc-slider-preview-panel #gvc-slider-coords .posx,
+	#gvc-slider-preview-panel #gvc-slider-coords .posy {
+		font-weight: bold;
+	}
+
+	#gvc-slider-preview-panel #gvc-slider-controls a {
+		margin-bottom: 0;
+	}
+
+	.single-gvc-slider #gvc-slider,
+	.single-gvc-slider #gvc-slider-preview-panel {
+		display: none;
+	}
+
+	.single-gvc-slider .device-message {
+		display: block;
+	}
+
+	.error-message {
+		background: #fff;
+		border: 1px solid #e0e0e0;
+		border-radius: 3px;
+		font-family: Arial, Helvetica, sans-serif !important;
+		font-size: 13px !important;
+		line-height: 22px !important;
+		margin: 2em auto 2em;
+		max-width: 100%;
+		padding: 1em 2em;
+		text-align: center;
+	}
+
+/*====================================================================*/
+/*	RESPONSIVE
+/*====================================================================*/
+	
+	@media only screen and (min-width: 768px) {
+
+		.single-gvc-slider #wrap {
+			width: 1200px !important;
+		}
+
+		.single-gvc-slider .canvas-1200 {
+			max-width: 100%;
+		}
+
+		.single-gvc-slider .canvas-960 {
+			max-width: 960px;
+		}
+
+		.single-gvc-slider #wrap.boxed #gvc-slider .gvc-layer,
+		.single-gvc-slider #gvc-slider .gvc-layer {
+			-webkit-transform: scale(1,1) !important;
+			-moz-transform: scale(1,1) !important;
+			-o-transform: scale(1,1) !important;
+			-ms-transform: scale(1,1) !important;
+			transform: scale(1,1) !important;
+		}
+
+		.single-gvc-slider .container {
+			max-width: 1200px !important;
+		}
+
+		.single-gvc-slider #gvc-slider,
+		.single-gvc-slider #gvc-slider-preview-panel {
+			display: block;
+		}
+
+		.single-gvc-slider #gvc-slider {
+			cursor: crosshair;
+		}
+
+		.single-gvc-slider .device-message {
+			display: none;
+		}
+
+		.single-gvc-slider .grid {
+			position: absolute;
+			top: 0;
+			left: 0;
+			z-index: 10;
+			width: 100%;
+			height: 100%;
+			background:rgba(0,0,0,0.4);
+		}
+
+		.single-gvc-slider .grid .grid-line {
+			display: block;
+			position: absolute;
+		}
+
+		.grid_1_v,
+		.grid_2_v,
+		.grid_3_v,
+		.grid_4_v,
+		.grid_5_v,
+		.grid_6_v,
+		.grid_7_v,
+		.grid_8_v,
+		.grid_9_v {
+			width: 1px;
+			height: 100%;
+			background-color: rgba(255,255,255,0.5);
+			top: 0;
+		}
+
+		.grid_1_v {left: 0;}
+		.grid_2_v {left: 12.5%;}
+		.grid_3_v {left: 25%;}
+		.grid_4_v {left: 37.5%;}
+		.grid_5_v {left: 50%;}
+		.grid_6_v {left: 62.5%;}
+		.grid_7_v {left: 75%;}
+		.grid_8_v {left: 87.5%;}
+		.grid_9_v {left: 100%;}
+
+		.grid_1_h,
+		.grid_2_h,
+		.grid_3_h,
+		.grid_4_h,
+		.grid_5_h,
+		.grid_6_h,
+		.grid_7_h,
+		.grid_8_h,
+		.grid_9_h {
+			height: 1px;
+			width: 100%;
+			background-color: rgba(255,255,255,0.4);
+			left: 0;
+		}
+
+		.grid_1_h {top: 0;}
+		.grid_2_h {top: 25%;}
+		.grid_3_h {top: 50%;}
+		.grid_4_h {top: 75%;}
+		.grid_5_h {top: 100%;}
+
+	}

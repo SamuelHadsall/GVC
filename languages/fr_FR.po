@@ -1,0 +1,3914 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Micron 2.0\n"
+"POT-Creation-Date: 2014-07-04 10:37+0400\n"
+"PO-Revision-Date: 2014-07-04 10:37+0400\n"
+"Last-Translator: Ninzio Team <ninziothemes@gmail.com>\n"
+"Language-Team: Ninzio Team <ninziothemes@gmail.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: W:\\wamp\\www\\1_micron\\wp-content\\themes\\micron\n"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/404.php:8
+msgid "Page not found"
+msgstr "Page non trouvée"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/404.php:12
+msgid ""
+"The page you are looking for no longer exists. Perhaps you can return back "
+"to the site's homepage and see if you can find what you are looking for."
+msgstr ""
+"La page que vous recherchez n'existe plus. Peut-être que vous pouvez "
+"retourner à la page d'accueil du site et de voir si vous pouvez trouver ce "
+"que vous cherchez."
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/404.php:16
+msgid "Goto homepage"
+msgstr "Aller à la page d'accueil "
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Ce poste est protégé par mot. Entrez le mot de passe pour accéder aux "
+"commentaires."
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/comments.php:37
+msgid "Pingback:"
+msgstr "Ping arrière:"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/comments.php:37
+msgid "(Edit)"
+msgstr "(Éditer)"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/comments.php:51
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/comments.php:67
+msgid "Post author"
+msgstr "Poster auteur"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/comments.php:70
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s de %2$s"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/comments.php:73
+msgid "Reply"
+msgstr "Répondre"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/comments.php:82
+msgid "Edit"
+msgstr "Éditer"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/comments.php:102
+msgid "Comment navigation"
+msgstr "Commentaire navigation"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/comments.php:103
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires plus anciens"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/comments.php:104
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/comments.php:110
+msgid "Comments are closed"
+msgstr "Les commentaires sont fermés"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/comments.php:121
+msgid "Name *"
+msgstr "Nom *"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/comments.php:122
+msgid "E-Mail *"
+msgstr "E-Mail *"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/comments.php:123
+msgid "Website"
+msgstr "Website"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/comments.php:131
+msgid "Submit comment"
+msgstr "Envoyer un commentaire"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/footer.php:55
+#: W:\wamp\www\1_micron\wp-content\themes\micron/page-blank.php:76
+msgid ""
+"Your browser is out of date. It has security vulnerabilities and may not "
+"display all features on this site and other sites."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/footer.php:56
+#: W:\wamp\www\1_micron\wp-content\themes\micron/page-blank.php:77
+msgid ""
+"Please update your browser using one of modern browsers (Google Chrome, "
+"Opera, Firefox, IE 10)."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:73
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:74
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:75
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:76
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:87
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:88
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:171
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:89
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:205
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/post-formats/content-aside.php:10
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/post-formats/content-audio.php:46
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/post-formats/content-chat.php:10
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/post-formats/content-gallery.php:32
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/post-formats/content-image.php:39
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/post-formats/content-link.php:14
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/post-formats/content-link.php:18
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/post-formats/content-quote.php:17
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/post-formats/content-status.php:15
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/post-formats/content-video.php:28
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/post-formats/content.php:28
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/shortcodes.php:2946
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/shortcodes.php:2957
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/shortcodes.php:2998
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/shortcodes.php:3004
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/shortcodes.php:3020
+msgid "Read more about"
+msgstr "En savoir plus sur"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:205
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/shortcodes.php:2957
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:214
+msgid "Previous project"
+msgstr "Projet précédent"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:214
+msgid "Next faq"
+msgstr "Suivant faq"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:214
+msgid "Previous post"
+msgstr "Le post précédent"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:215
+msgid "Next project"
+msgstr "Projet suivant"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:215
+msgid "Previous faq"
+msgstr "Faq précédente"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:215
+msgid "Next post"
+msgstr "Article suivant"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:251
+msgid "Prev"
+msgstr "Préc"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:252
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/shortcodes.php:912
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/shortcodes.php:2525
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/shortcodes.php:2835
+msgid "Next"
+msgstr "Suiv"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:272
+msgid "No projects found."
+msgstr "Pas de projets trouvés."
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:276
+msgid "No slides found, why not add one!"
+msgstr "Pas de diapositives trouvés, pourquoi ne pas en ajouter un!"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:280
+msgid "No F.A.Q. items found"
+msgstr "Pas F.A.Q. objets trouvés"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:284
+msgid "No search results found. Try a different search"
+msgstr "Pas de résultats trouvés. Essayez une recherche différente"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:288
+msgid "No posts found."
+msgstr "Aucun post trouvé."
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:313
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:1007
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:1039
+msgid "2nd Featured Image"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:1014
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:1046
+msgid "3rd Featured Image"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:1021
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:1053
+msgid "4th Featured Image"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:1028
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:1060
+msgid "5th Featured Image"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:1125
+msgid "Header Menu"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:1126
+msgid "Footer Menu"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:1140
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:1142
+msgid "Main widget area"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:1152
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:1154
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2206
+msgid "Portfolio widget area"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:1164
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:1166
+msgid "FAQ widget area"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:1176
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:1178
+msgid "Page widget area"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:1188
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:1190
+msgid "Footer widget area"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:1200
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:1202
+msgid "Shop widget area"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/functions.php:1295
+#: W:\wamp\www\1_micron\wp-content\themes\micron/header.php:97
+msgid "View your shopping cart"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/header.php:120
+msgid "No menu is found why not add one!"
+msgstr "Aucun menu se trouve, pourquoi ne pas en ajouter un!"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-header.php:38
+msgid "Articles posted by"
+msgstr "Les articles publiés par"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-header.php:40
+msgid "Archive"
+msgstr "Archives"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-meta-footer.php:17
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-meta.php:24
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-meta.php:43
+msgid "Leave a comment"
+msgstr "Ajouter un commentaire"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-meta-footer.php:17
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-meta.php:24
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-meta.php:43
+msgid "One comment so far"
+msgstr "Un commentaire à ce jour"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-meta-footer.php:17
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-meta.php:24
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-meta.php:43
+#, php-format
+msgid "View all % comments"
+msgstr "Voir les % commentaires"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-meta-footer.php:20
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-meta.php:27
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-meta.php:46
+msgid "Comments are off for this post"
+msgstr "Les commentaires sont hors de ce post"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-meta.php:12
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-meta.php:18
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-meta.php:37
+msgid "Posted by"
+msgstr "Publié par"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-meta.php:12
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-meta.php:18
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-meta.php:37
+msgid "View all posts by"
+msgstr "Voir tous les messages de"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-post.php:50
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-term.php:9
+msgid "About the author:"
+msgstr "À propos de l'auteur:"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-social-share.php:6
+msgid "Share this post:"
+msgstr "Publier  cet article:"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-social-share.php:7
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/portfolio/content-portfolio-post-body.php:40
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/portfolio/content-portfolio-post.php:107
+msgid "Tweet this!"
+msgstr "Tweet ce!"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-social-share.php:8
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/portfolio/content-portfolio-post-body.php:41
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/portfolio/content-portfolio-post.php:108
+msgid "Share on Facebook"
+msgstr "Partager sur Facebook"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-social-share.php:9
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/portfolio/content-portfolio-post-body.php:42
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/portfolio/content-portfolio-post.php:109
+msgid "Share on LinkedIn"
+msgstr "Partager sur LinkedIn"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-social-share.php:10
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/portfolio/content-portfolio-post-body.php:43
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/portfolio/content-portfolio-post.php:110
+msgid "Share on Google+"
+msgstr "Partager sur Google+"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-social-share.php:11
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/portfolio/content-portfolio-post-body.php:44
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/portfolio/content-portfolio-post.php:111
+msgid "Share on Pinterest"
+msgstr "Partager sur Pinterest"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-term.php:21
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/faq/content-faq-term.php:15
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/portfolio/content-portfolio-term.php:15
+msgid " tag description:"
+msgstr "description de la balise:"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/content-blog-term.php:30
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/faq/content-faq-term.php:4
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/portfolio/content-portfolio-term.php:4
+msgid " category description:"
+msgstr "description de la catégorie:"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/post-formats/content-audio.php:70
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/post-formats/content-gallery.php:56
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/post-formats/content-image.php:63
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/post-formats/content-video.php:52
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/post-formats/content.php:52
+msgid "Continue reading"
+msgstr "Continuer la lecture"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/post-formats/content-audio.php:71
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/post-formats/content-gallery.php:57
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/post-formats/content-image.php:64
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/post-formats/content-video.php:53
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/post-formats/content.php:53
+msgid "Go back"
+msgstr "Retourner"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/blog/post-formats/content-link.php:25
+#: W:\wamp\www\1_micron\wp-content\themes\micron/search.php:33
+#: W:\wamp\www\1_micron\wp-content\themes\micron/search.php:38
+msgid "Go to"
+msgstr "Allez à"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1950
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1950
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:6
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:7
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:18
+msgid "Faq"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:8
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:12
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:8
+msgid "Add new"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:9
+msgid "Add new faq"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:10
+msgid "Edit faq"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:11
+msgid "New faq"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:12
+msgid "All faq"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:13
+msgid "View faq"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:14
+msgid "Search faq"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:15
+msgid "No faq found"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:16
+msgid "No faq found in trash"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:48
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:49
+msgid "Faq category"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:50
+msgid "Search faq category"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:51
+msgid "All faq categories"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:52
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:53
+msgid "Parent faq category"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:54
+msgid "Edit faq category"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:55
+msgid "Update faq category"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:56
+msgid "Add new faq category"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:57
+msgid "New faq category"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:58
+msgid "Faq categories"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:70
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:80
+msgid "Faq tags"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:71
+msgid "Faq tag"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:72
+msgid "Search faq tags"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:73
+msgid "All faq tags"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:74
+msgid "Parent faq tags"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:75
+msgid "Parent faq tag"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:76
+msgid "Edit faq tag"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:77
+msgid "Update faq tag"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:78
+msgid "Add new faq tag"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:79
+msgid "New faq tag"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:101
+msgid "Faq item title"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:102
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:298
+msgid "Category"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:103
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:299
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:38
+msgid "Tags"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:133
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:337
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page/content-page-sitemap.php:55
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page/content-page-sitemap.php:94
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page/content-page-sitemap.php:132
+msgid "No categories"
+msgstr "Aucune catégorie"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-faq.php:154
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:358
+msgid "No tags"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:10
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:22
+msgid "Ninzio slider"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:11
+msgid "Slider"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:13
+msgid "Add new slide"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:14
+msgid "Edit slide"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:15
+msgid "New slide"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:16
+msgid "All slides"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:17
+msgid "View slide"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:18
+msgid "Search slides"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:19
+msgid "No slides found"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:20
+msgid "No slides found in trash"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:57
+msgid "Ninzio slider settings"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:58
+msgid "Settings"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:66
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:67
+msgid "Order slides"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:106
+msgid "Sort slides"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:107
+msgid "Simply drag the slides up or down and they will be saved in that order."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:110
+msgid "Slide order has been updated successfully!"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:113
+msgid "An error occurred. Slide order has not been updated successfully!"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:134
+msgid "Order"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:135
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2266
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/slides/field_slides.php:145
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:136
+msgid "Background image"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:141
+msgid "Move Icon"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:147
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:149
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:758
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:760
+msgid "Slide background image"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:159
+msgid "No slides found, why not"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:159
+msgid "create one?"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:214
+msgid "Turn On Ninzio Slider:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:218
+msgid "Check to activate Ninzio Slider"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:223
+msgid "Turn On Ninzio Slider On Mobile Devices:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:227
+msgid "Check to activate Ninzio Slider on mobile devices"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:232
+msgid "Slider height (px):"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:236
+msgid "Set the height in px for the Ninzio slider (optimal is 400px to 600px)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:241
+msgid "Slider transition:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:245
+msgid "Choose transition for Ninzio slider, default is fade"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:250
+msgid "Autoplay:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:254
+msgid ""
+"Cause Ninzio slider to automatically change between slides over a period of "
+"time, as defined in Autoplay delay"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:259
+msgid "Bullets:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:263
+msgid "Add bullets navigation to Ninzio slider"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:268
+msgid "Autoplay delay:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:272
+msgid ""
+"The duration in milliseconds at which slides should remain on screen before "
+"animating to the next. (optimal is not less than 5000ms)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:288
+msgid "Set ninzio slider settings"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:363
+msgid "Fade"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:364
+msgid "Soft scale"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:365
+msgid "Press away"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:366
+msgid "Side swing"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:367
+msgid "Fortune wheel"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:368
+msgid "Push reveal"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:369
+msgid "Stick it"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:370
+msgid "Archive me"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:371
+msgid "Vertical growth"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:372
+msgid "Soft pulse"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:373
+msgid "Cliff diving"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:471
+msgid "Ninzio Slide Options"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:517
+msgid "Slide background options"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:520
+msgid "Slide background color:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:523
+msgid ""
+"Upload slide background image. The image should be between 1600px - 2000px "
+"in width and have a minimum height of "
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:523
+msgid "px for best results."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:526
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:203
+msgid "Upload background image"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:527
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:204
+msgid "Remove background image"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:534
+msgid ""
+" - Parallax (Activate parallax effect on this slide. Use images with a "
+"height greater than slider height (1:1.5 ratio))"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:538
+msgid ""
+"Enter video files links for background video (use background image for video "
+"poster) "
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:540
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:201
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:70
+msgid "Enter  WEBM video file link here:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:544
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:193
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:62
+msgid "Enter  MP4 video file link here:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:548
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:197
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:66
+msgid "Enter  OGV video file link here:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:561
+msgid "Delay"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:562
+msgid "Duration"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:563
+msgid "Pos-x"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:564
+msgid "Pos-y"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:577
+msgid "Input should be numeric"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:589
+msgid "Slide layers"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:594
+msgid "Layer "
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:598
+msgid "Animation"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:602
+msgid "Delay (ms):"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:606
+msgid "Duration (ms):"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:610
+msgid "Opacity:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:614
+msgid "Z-index:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:618
+msgid "Easing:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:626
+msgid "Direction:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:628
+msgid "None"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:629
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/border/field_border.php:148
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:630
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/border/field_border.php:134
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:631
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/border/field_border.php:127
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:632
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/border/field_border.php:141
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:633
+msgid "Left Top"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:634
+msgid "Right Top"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:635
+msgid "Left Bottom"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:636
+msgid "Right Bottom"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:640
+msgid "Pos-x (px):"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:644
+msgid "Pos-y (px):"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-ninzio-slider.php:741
+msgid "Background Image"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:6
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:7
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:18
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page/content-page-sitemap.php:72
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/portfolio/content-portfolio-header.php:4
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2165
+msgid "Portfolio"
+msgstr "Portefeuille"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:9
+msgid "Add new project"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:10
+msgid "Edit project"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:11
+msgid "New project"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:12
+msgid "All projects"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:13
+msgid "View project"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:14
+msgid "Search projects"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:15
+msgid "No projects found"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:16
+msgid "No projects found in trash"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:48
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:49
+msgid "Portfolio category"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:50
+msgid "Search portfolio category"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:51
+msgid "All portfolio categories"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:52
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:53
+msgid "Parent portfolio category"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:54
+msgid "Edit portfolio category"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:55
+msgid "Update portfolio category"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:56
+msgid "Add new portfolio category"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:57
+msgid "New portfolio category"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:58
+msgid "Portfolio categories"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:73
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:83
+msgid "Portfolio tags"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:74
+msgid "Portfolio tag"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:75
+msgid "Search portfolio tags"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:76
+msgid "All portfolio tags"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:77
+msgid "Parent portfolio tags"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:78
+msgid "Parent portfolio tag:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:79
+msgid "Edit portfolio tag"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:80
+msgid "Update portfolio tag"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:81
+msgid "Add new portfolio tag"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:82
+msgid "New portfolio tag"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:101
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:297
+msgid "Format"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:110
+msgid "Project details "
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:119
+msgid "Project media"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:136
+msgid "Enter  client name here:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:140
+msgid "Enter project URL here:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:166
+msgid ""
+" - Disable Featured Media in this project (Featured Image / Featured "
+"Gallery / Featured Video / Featured Audio)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:171
+msgid ""
+"Set featured image at the right sidebar, like regular posts' featured image"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:175
+msgid "Audio options"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:177
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:47
+msgid "Enter  MP3 audio file link here:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:181
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:51
+msgid "Enter  OGG audio file link here:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:185
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:55
+msgid "Embed audio here:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:191
+msgid "Video options"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:208
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:77
+msgid "Upload video poster image"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:209
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:78
+msgid "Remove video poster image"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:215
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:84
+msgid "Embed video here:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:221
+msgid "Gallery options"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:222
+msgid ""
+"Use 2nd/3rd ... Featured Images (in the right sidebar, right after main "
+"featured image) to upload images for the project gallery"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:239
+msgid "Image"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:243
+msgid "Gallery"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:247
+msgid "Video"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:251
+msgid "Audio"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/custom-portfolio.php:296
+msgid "Project title"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/faq/content-faq-header.php:14
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page/content-page-sitemap.php:110
+msgid "FAQ"
+msgstr "FAQ"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/faq/content-faq-post.php:20
+msgid "No F.A.Q. Title"
+msgstr "Pas F.A.Q. titre"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/faq/content-faq-post.php:37
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/faq/content-faq-post.php:70
+msgid "No F.A.Q. Content"
+msgstr "Pas F.A.Q. teneur"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/multi-post-thumbnails.php:77
+#, php-format
+msgid ""
+"The 'label' and 'id' values of the 'args' parameter of '%s::%s()' are "
+"required"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/multi-post-thumbnails.php:159
+#, php-format
+msgid "Set as %3$s"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:407
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:430
+msgid "Structure"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:481
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:554
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:619
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:686
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:717
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:748
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:786
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:837
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:872
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:894
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:959
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:1020
+msgid "Content"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:1086
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:1215
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:1267
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:1312
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:1361
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:1427
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:1500
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:1567
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:1637
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:1730
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:1803
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/ninzio_vc.php:1854
+msgid "Nested elements"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:8
+msgid "Page options"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:54
+msgid "Enter page subtitle here"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:63
+msgid " - Full width"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:65
+msgid ""
+"For better design use WIDEBOX/ ANIMATED WIDEBOX / VIDEO WIDEBOX / FULLBOX "
+"shortcodes as sections"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:71
+msgid " - Page tweets"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:73
+msgid "Toggle tweets carousel on this page"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:80
+msgid " - Ninzio slider"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:82
+msgid "Toggle Ninzio slider on this page"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:88
+msgid " - One page"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:90
+msgid ""
+"Toggle one page layout for this page (make sure, you have configured one "
+"page options from theme option panel)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:96
+msgid " - Page padding top OFF"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:98
+msgid "Turn off padding top of this page"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:102
+msgid "Page sidebar"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:104
+msgid "none"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:105
+msgid "left"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:106
+msgid "right"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:115
+msgid "All options are available if rich header is turned ON"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:119
+msgid " - Rich header OFF"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:121
+msgid "Turn off rich header (page title section)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:125
+msgid "Page title background color:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:130
+msgid "Page title background color opacity"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:155
+msgid "Page title text color:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:160
+msgid "Page subtitle background color:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:165
+msgid "Page subtitle background color opacity"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:190
+msgid "Page subtitle text color:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:195
+msgid "Page header section background color:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:200
+msgid "Page header section background image:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:211
+msgid "Page header section background image repeat"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:213
+msgid "no-repeat"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:214
+msgid "repeat-x"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:215
+msgid "repeat-y"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:216
+msgid "repeat"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:221
+msgid "Page header section background image position"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:223
+msgid "left top"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:224
+msgid "left bottom"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:225
+msgid "right top"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:226
+msgid "right bottom"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:227
+msgid "center center"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:228
+msgid "center top"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:229
+msgid "center bottom"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:234
+msgid "Page header section background image attachment"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:236
+msgid "scroll"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:237
+msgid "fixed"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:242
+msgid "Page title section background image size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:244
+msgid "auto"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:245
+msgid "cover"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:251
+msgid " - Parallax"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page-extended-options.php:253
+msgid ""
+"Activate parallax effect on page title section (not available on mobile "
+"devices). Use images with a height greater than page title section (1:1.5 "
+"ratio)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page/content-page-sitemap.php:5
+msgid "Pages"
+msgstr "Pages"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/page/content-page-sitemap.php:34
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2093
+msgid "Blog"
+msgstr "Blog"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/portfolio/content-portfolio-header.php:27
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/border/field_border.php:114
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr "Tous"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/portfolio/content-portfolio-header.php:30
+#, php-format
+msgid "View all projects in %s"
+msgstr "Voir tous les projets en %s"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/portfolio/content-portfolio-header.php:41
+msgid "Tag: "
+msgstr "Tag:"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/portfolio/content-portfolio-post-body.php:14
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-recent-portfolio-widget.php:50
+msgid "Explore"
+msgstr "Explorer"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/portfolio/content-portfolio-post-body.php:59
+msgid "Category: "
+msgstr "Catégorie:"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/portfolio/content-portfolio-post-body.php:66
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2537
+msgid "Tags: "
+msgstr "Tags:"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/portfolio/content-portfolio-post-body.php:73
+msgid "Client: "
+msgstr "Client:"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/portfolio/content-portfolio-post-body.php:79
+msgid "Launch project"
+msgstr "Lancement du projet"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:8
+msgid "Post Format Options"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:41
+msgid ""
+" - Disable Featured Media in this post (Featured Image / Featured Gallery / "
+"Featured Video)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:45
+msgid "Audio post format options"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:60
+msgid "Video post format options"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:89
+msgid "Gallery post format options"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:90
+msgid ""
+"Use 2nd/3rd ... Featured Images (in the right sidebar, right after main "
+"featured image) to upload images for the gallery post format"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:93
+msgid "Link post format options"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:95
+msgid "Enter link URL here:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:100
+msgid "Image post format options"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:102
+msgid "Enter image URL here:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:106
+msgid "Enter image DESCRIPTION here:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:111
+msgid "Status post format options"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:113
+msgid "Enter status author name here:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:118
+msgid "Quote post format options"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/post-extended-options.php:120
+msgid "Enter quote author name here:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/shortcodes.php:371
+#: W:\wamp\www\1_micron\wp-content\themes\micron/vc_templates/vc_row.php:177
+msgid "Visible only for registered users"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/shortcodes.php:912
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/shortcodes.php:2525
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/shortcodes.php:2835
+msgid "Previous"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/shortcodes.php:1583
+msgid "Please specify your Google Maps API key/Client ID"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/shortcodes.php:1629
+msgid ""
+"Please provide correct slide attributes: choose correct type (youtube, "
+"vimeo, img); For youtube/vimeo use ID attribute, for img use SRC attribute. "
+"Description attribute is optional."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-facebook-widget.php:13
+msgid "* Facebook Like Box"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-facebook-widget.php:14
+msgid "Facebook Like Box widget"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-facebook-widget.php:67
+msgid "Find us on Facebook"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-facebook-widget.php:80
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-flickr-widget.php:53
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-recent-portfolio-widget.php:84
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-twitter-widget.php:142
+msgid "Title:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-facebook-widget.php:84
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-facebook-widget.php:88
+msgid "App ID from the app dashboard:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-facebook-widget.php:93
+msgid "Show faces"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-facebook-widget.php:97
+msgid "Show border"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-facebook-widget.php:101
+msgid "Show stream"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-facebook-widget.php:105
+msgid "Show facebook header"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-flickr-widget.php:13
+msgid "* Photos from flickr"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-flickr-widget.php:14
+msgid "Display photos from flickr"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-flickr-widget.php:44
+msgid "Photos from flickr"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-flickr-widget.php:57
+msgid "Flickr Username:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-flickr-widget.php:61
+msgid "Number of photos to show:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-recent-portfolio-widget.php:13
+msgid "* Recent Projects"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-recent-portfolio-widget.php:14
+msgid "Display recent projects with thumbnails"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-recent-portfolio-widget.php:77
+msgid "Recent portfolio"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-recent-portfolio-widget.php:88
+msgid "Number of projects to show:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-twitter-widget.php:18
+msgid "* Twitter Tweets"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-twitter-widget.php:19
+msgid "Display tweets from twitter"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-twitter-widget.php:104
+msgid "second"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-twitter-widget.php:104
+msgid "minute"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-twitter-widget.php:104
+msgid "hour"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-twitter-widget.php:104
+msgid "day"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-twitter-widget.php:104
+msgid "week"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-twitter-widget.php:104
+msgid "month"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-twitter-widget.php:104
+msgid "year"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-twitter-widget.php:104
+msgid "decade"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-twitter-widget.php:128
+msgid "Recent Tweets"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-twitter-widget.php:139
+msgid "Find or Create your Twitter App"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-twitter-widget.php:147
+msgid "Consumer Key:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-twitter-widget.php:152
+msgid "Consumer Secret:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-twitter-widget.php:157
+msgid "Access Token:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-twitter-widget.php:162
+msgid "Access Token Secret:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-twitter-widget.php:167
+msgid "Twitter ID:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/includes/widgets/custom-twitter-widget.php:171
+msgid "Number of Tweets:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:17
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:36
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:37
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:42
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:43
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:72
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:73
+msgid "Theme Settings"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:87
+msgid "General"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:97
+msgid "Favicon upload"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:98
+msgid "Upload a 32px x 32px .ico image that will be your favicon"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:104
+msgid "Main layout"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:105
+msgid "Set boxed or full layout."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:113
+msgid "Comments on pages"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:114
+msgid "Toggle comments on pages"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:121
+msgid "F.A.Q. widget area"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:122
+msgid "Toggle F.A.Q. widget area"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:129
+msgid "Smooth scroll"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:130
+msgid "Toggle smooth scroll"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:137
+msgid "One page layout"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:138
+msgid "Toggle one page layout (with smooth scroll)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:145
+msgid "One page scroll speed"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:146
+msgid "Select one page layout scroll speed"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:160
+msgid "One page easing"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:161
+msgid "Select one page layout easing"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:202
+msgid "One page layout hash"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:203
+msgid ""
+"Toggle one page layout hash. In browsers that support the history object, "
+"update the url's hash when clicking on the links "
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:210
+msgid "One page menu filter"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:211
+msgid ""
+"Exclude links from one page menu by entering comma-separated menu items' ids"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:218
+msgid "404 error page not found message"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:226
+msgid "Google analytics"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:227
+msgid "Please enter your google analytics tracking code here."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:233
+msgid "Google map API"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:234
+msgid "Enter google map API here"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:241
+msgid "Google map client ID"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:242
+msgid "If you have Google Maps API for Business, enter your client ID here"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:252
+msgid "Header"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:261
+msgid "Normal logo upload"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:262
+msgid "Upload .jpg, .png or .gif image that will be your logo."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:269
+msgid "Retina logo upload"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:270
+msgid ""
+"Upload .jpg, .png or .gif image that will be your retina logo. Make sure "
+"that your image ends with symbols @2x (example logo@2x.png)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:276
+msgid "Header attachment"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:277
+msgid "Set header attachment to fixed or scroll"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:285
+msgid "Header mobile menu on 1024px"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:286
+msgid ""
+"Set header menu to mobile on 1024px screen (use this option, if you have too "
+"many menu items to fit 1024px width)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:293
+msgid "Header search"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:294
+msgid "Toggle header search"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:301
+msgid "Header menu dropdown indicator"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:302
+msgid "Toggle header menu dropdown indicator"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:309
+msgid "Header height"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:310
+msgid "Set header height in px"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:326
+msgid "Header top section"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:327
+msgid "Toggle header top section"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:334
+msgid "Header top section background color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:335
+msgid "Pick a background color for header top section"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:343
+msgid "Header top section text color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:344
+msgid "Pick a text color for header top section"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:352
+msgid "Header top section language switcher"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:353
+msgid ""
+"Toggle header top section language switcher (available if WPML plugin is "
+"installed and activated)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:360
+msgid "Header top social links"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:361
+msgid "Toggle social links in header (activate header top to see social links)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:368
+msgid "Header top section social links default color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:369
+msgid "Pick a default color for header top section social links"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:377
+msgid "Header top section social links hover color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:378
+msgid "Pick a hover color for header top section social links"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:386
+msgid "Header top section social links hover background color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:387
+msgid "Pick a hover background color for header top section social links"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:395
+msgid "Slogan"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:396
+msgid "Enter slogan here (activate header top to see slogan)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:402
+msgid "Header background color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:403
+msgid "Pick a background color for header"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:411
+msgid "Menu default text color (top-level menu only)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:412
+msgid "Pick a default text color for the menu"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:420
+msgid "Menu hover text color (top-level menu only)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:421
+msgid "Pick a hover text color for the menu"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:429
+msgid "Choose menu hover effect"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:441
+msgid "Choose menu hover effect color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:442
+msgid "Refers to underline/fill hover effect"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:450
+msgid "Menu text transform"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:451
+msgid "Transform menu items text to uppercase (refers to top level menu)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:459
+msgid "Menu font weight"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:460
+msgid "Choose menu font-weight"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:468
+msgid "Menu font size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:469
+msgid "Set menu font-size (refers to top level menu)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:487
+msgid "Menu font family"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:488
+msgid "Set menu font-family (refers to top level menu)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:540
+msgid "Submenu text transform"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:541
+msgid "Transform submenu items text to uppercase (refers to submenu only)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:549
+msgid "Submenu font weight"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:550
+msgid "Choose submenu font-weight"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:558
+msgid "Submenu font size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:559
+msgid "Set submenu font-size (refers to submenu only)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:577
+msgid "Submenu font family"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:578
+msgid "Set submenu font-family (refers to submenu only)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:630
+msgid "Submenu items text color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:631
+msgid "Pick a text color for header submenu items"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:639
+msgid "Submenu items hover text color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:640
+msgid "Pick a hover text color for header submenu items"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:648
+msgid "Submenu items background color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:649
+msgid "Pick a background color for header submenu items"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:657
+msgid "Submenu items hover background color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:658
+msgid "Pick a hover background color for header submenu items"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:666
+msgid "Submenu border color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:667
+msgid "Pick a border color for header submenu"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:675
+msgid "Submenu top and bottom border color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:676
+msgid "Pick a border color for header submenu top border and bottom border"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:684
+msgid "Submenu opacity"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:685
+msgid "Set submenu opacity"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:705
+msgid "Megamenu submenu separator"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:706
+msgid ""
+"Toggle megamenu submenu separators (right border of each megamenu submenu "
+"blocks)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:713
+msgid "Megamenu submenu items border"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:714
+msgid "Toggle megamenu submenu items border"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:721
+msgid "Megamenu top level font weight"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:722
+msgid "Choose megamenu top level font-weight"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:730
+msgid "Megamenu top level text transform"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:731
+msgid ""
+"Transform megamenu top level items text to uppercase (refers to megamenu top "
+"level only)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:739
+msgid "Megamenu top level items text color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:740
+msgid "Pick a text color for header megamenu top level items"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:748
+msgid "Megamenu top level items hover text color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:749
+msgid "Pick a hover text color for header megamenu top level items"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:757
+msgid "Megamenu top level items background color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:758
+msgid "Pick a background color for header megamenu top level items"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:766
+msgid "Megamenu top level items hover background color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:767
+msgid "Pick a hover background color for header megamenu top level items"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:775
+msgid "Megamenu sub level text transform"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:776
+msgid ""
+"Transform megamenu sub level items text to uppercase (refers to megamenu sub "
+"level only)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:784
+msgid "Megamenu sub level items text color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:785
+msgid "Pick a text color for header megamenu sub level items"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:793
+msgid "Megamenu sub level items hover text color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:794
+msgid "Pick a hover text color for header megamenu sub level items"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:802
+msgid "Megamenu sub level items background color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:803
+msgid "Pick a background color for header megamenu sub level items"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:811
+msgid "Megamenu sub level items hover background color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:812
+msgid "Pick a hover background color for header megamenu sub level items"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:824
+msgid "Footer"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:832
+msgid "Footer background color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:833
+msgid "Pick a background color for footer"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:841
+msgid "Footer text color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:842
+msgid "Pick a text color for the footer"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:850
+msgid "Footer font size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:851
+msgid "Choose font size for footer"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:882
+msgid "Footer text line height"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:883
+msgid "Choose footer text line height for your site"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:922
+msgid "Footer social links"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:923
+msgid "Toggle social links in footer"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:930
+msgid "Copyright info"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:937
+msgid "Footer widget area background color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:938
+msgid "Pick a background color for footer widget area"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:946
+msgid "Footer widget area widget title color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:947
+msgid "Pick a title color for the footer widgets"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:955
+msgid "Footer widget area text color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:956
+msgid "Pick a text color for the footer widget area"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:964
+msgid "Footer widget area columns"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:965
+msgid "Set columns for footer widget area."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:977
+msgid "Styling"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:985
+msgid "Main color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:986
+msgid "Pick a main color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:994
+msgid "Template skin"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:995
+msgid "Set template skin."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1003
+msgid "Site background color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1004
+msgid ""
+"Pick a background color for site (choose \"Boxed\" layout option to see site "
+"background color)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1013
+msgid "Site background image upload"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1014
+msgid ""
+"Upload .jpg, .png or .gif image that will be site background image (Choose "
+"\"Boxed\" layout option to see site background image)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1020
+msgid "Site background image repeat"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1021
+msgid ""
+"Repeat your background image horizontally, vertically, both horizontally and "
+"vertically or no repeat"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1029
+msgid "Site background image position"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1030
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2395
+msgid "Position your background image"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1038
+msgid "Site background image attachment"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1039
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2404
+msgid "Choose fixed or scroll for your background image"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1047
+msgid "Site background image size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1048
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2413
+msgid "Choose cover or auto for your background image size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1056
+msgid "Light skin main text color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1057
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1084
+msgid "Pick a main text color for light skin"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1065
+msgid "Light skin dark text color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1066
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1093
+msgid ""
+"Pick a color for emphasized text (refers to headings, several shortcodes, "
+"etc.)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1074
+msgid "Light skin light text color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1075
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1102
+msgid "Pick a color for light text (refers to several shortcodes, etc.)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1083
+msgid "Dark skin main text color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1092
+msgid "Dark skin dark text color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1101
+msgid "Dark skin light text color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1112
+msgid "Custom CSS Styles"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1113
+msgid "Enter custom css code here."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1122
+msgid "Typography"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1130
+msgid "Main font family"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1131
+msgid "Choose main font family for your site"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1183
+msgid "Main font size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1184
+msgid "Choose main font size for your site"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1215
+msgid "Main text line height"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1216
+msgid "Choose main text line height for your site"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1255
+msgid "Small text font size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1256
+msgid ""
+"Choose small text font size for your site (refers to post meta information "
+"and several shortcodes)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1287
+msgid "Small text line height"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1288
+msgid "Choose small text line height for your site"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1327
+msgid "Headings font family"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1328
+msgid "Choose headings font family"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1380
+msgid "H1 font size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1381
+msgid "Choose H1 heading font size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1412
+msgid "H1 line height"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1413
+msgid "Choose H1 heading line height"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1452
+msgid "H2 font size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1453
+msgid "Choose H2 heading font size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1484
+msgid "H2 line height"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1485
+msgid "Choose H2 heading line height"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1524
+msgid "H3 font size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1525
+msgid "Choose H3 heading font size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1556
+msgid "H3 line height"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1557
+msgid "Choose H3 heading line height"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1596
+msgid "H4 font size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1597
+msgid "Choose H4 heading font size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1628
+msgid "H4 line height"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1629
+msgid "Choose H4 heading line height"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1668
+msgid "H5 font size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1669
+msgid "Choose H5 heading font size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1700
+msgid "H5 line height"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1701
+msgid "Choose H5 heading line height"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1740
+msgid "H6 font size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1741
+msgid "Choose H6 heading font size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1772
+msgid "H6 line height"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1773
+msgid "Choose H6 heading line height"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1812
+msgid "Buttons font family"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1813
+msgid "Set buttons font-family (refers to all buttons)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1865
+msgid "Buttons font weight"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1866
+msgid "Choose buttons font-weight"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1874
+msgid "Upload custom fonts"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1875
+msgid "Upload custom fonts here (eot, woff,truetype, svg formats)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1885
+msgid "Custom @font-face CSS Styles"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1886
+msgid ""
+"Enter custom @font-face css code here. Step by step instruction of custom "
+"font @font-face definitions can be found in help file (Customization >> "
+"Typography options)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1896
+msgid "Social"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1904
+msgid "Page tweets"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1905
+msgid "Toggle tweets carousel at the bottom of a page"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1912
+msgid "Page tweets consumer key"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1919
+msgid "Page tweets consumer secret"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1920
+msgid "Enter your consumer key here"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1927
+msgid "Page tweets access token"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1928
+msgid "Enter your access token here"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1935
+msgid "Page tweets access token secret"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1936
+msgid "Enter your access token secret here"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1943
+msgid "Page tweets twitter user ID"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1944
+msgid "Enter twiter user ID here, (example: tutsplus)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1951
+msgid "Number of tweets to display"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1970
+msgid "RSS Feed URL"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1978
+msgid "Facebook URL"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1986
+msgid "Twitter URL"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:1994
+msgid "Google Plus URL"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2002
+msgid "Yotube URL"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2010
+msgid "Vimeo URL"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2018
+msgid "LinkedIn URL"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2026
+msgid "Pinterest URL"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2034
+msgid "Flickr URL"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2042
+msgid "Instagram URL"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2050
+msgid "Apple URL"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2058
+msgid "Tumblr URL"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2066
+msgid "Dribbble URL"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2074
+msgid "Android URL"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2082
+msgid "Email"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2101
+msgid "Choose blog layout"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2114
+msgid "Enter blog excerpt length here"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2121
+msgid "Blog widget area"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2122
+msgid "Toggle blog widget area in blog archive"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2129
+msgid "Blog widget area (single post page)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2130
+msgid "Toggle blog widget area in blog single post page"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2137
+msgid "Author box"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2138
+msgid ""
+"Toggle author information box on single post page (after post, there is a "
+"Author Information Box)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2145
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2221
+msgid "Comment box"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2146
+msgid ""
+"Toggle comments on single post page (after post, there is a \"Leave a comment"
+"\" section)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2153
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2229
+msgid "Social sharing"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2154
+msgid "Toggle social sharing on single post page"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2173
+msgid "Portfolio title"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2174
+msgid "Enter portfolio title here"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2181
+msgid "Choose portfolio layout"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2198
+msgid "Project solo layout"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2199
+msgid ""
+"Toggle project solo layout. If turned ON, you can build custom layout with "
+"shortcodes for each project"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2207
+msgid "Toggle portfolio widget area"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2214
+msgid "Portfolio pagination"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2222
+msgid ""
+"Toggle comments on single project page (after project, there is a \"Leave a "
+"comment\" section)"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2230
+msgid "Toggle social sharing on single project page"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2241
+msgid "WooCommerce"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2250
+msgid "Rich header in shop"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2251
+msgid "Toggle rich header in shop"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2258
+msgid "Ninzio slider in shop"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2259
+msgid "Toggle Ninzio slider in shop"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2267
+msgid "Enter shop title here"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2273
+msgid "Subtitle"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2274
+msgid "Enter shop subtitle here"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2280
+msgid "Shop page title background color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2288
+msgid "Shop page title background color opacity"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2317
+msgid "Shop page title text color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2325
+msgid "Shop page subtitle background color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2333
+msgid "Shop page subtitle background color opacity"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2361
+msgid "Shop page subtitle text color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2369
+msgid "Shop page header section background color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2378
+msgid "Shop page header section background image upload"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2379
+msgid ""
+"Upload .jpg, .png or .gif image that will be shop page header section "
+"background image"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2385
+msgid "Shop page header section background image repeat"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2386
+msgid ""
+"Repeat background image horizontally, vertically, both horizontally and "
+"vertically or no repeat"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2394
+msgid "Shop page header section background image position"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2403
+msgid "Shop page header section background image attachment"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2412
+msgid "Shop page header section background image size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2421
+msgid "Parallax effect for shop page header section background image"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2428
+msgid "Shop sidebar"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2429
+msgid "Select sidebar for shop"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2441
+msgid "Choose shop layout"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2452
+msgid "Toogle cart in header section"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2459
+msgid "Header shopping cart text color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2460
+msgid "Pick a text color for the header shopping cart"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2468
+msgid "Header shopping cart background color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2469
+msgid "Pick a background color for the header shopping cart"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2477
+msgid "Toggle related products in single product page"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2484
+msgid "Single product related products number"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2495
+msgid "Shop loop content area"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2496
+msgid ""
+"Add shortcodes, content, images to Shop (Category and Tags pages included). "
+"After product list you have area, where you can add any content, shortcode "
+"you wish"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2505
+msgid "Shop single product content area"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2506
+msgid ""
+"Add shortcodes, content, images to Shop single product page. After product "
+"summary you have area, where you can add any content, shortcode you wish"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2532
+msgid "Theme URL: "
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2533
+msgid "Author: "
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2534
+msgid "Version: "
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/config.php:2543
+msgid "Theme Information"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/extensions/customizer/extension_customizer.php:452
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:1899
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/extensions/customizer/extension_customizer.php:453
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:1900
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/extensions/customizer/extension_customizer.php:454
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:1902
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/extensions/customizer/extension_customizer.php:487
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/extensions/customizer/extension_customizer.php:488
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/extensions/customizer/extension_customizer.php:489
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:287
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:287
+msgid "Redux Framework"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:291
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:295
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:1429
+msgid "Options"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:1368
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:1369
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:3475
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:3554
+msgid "System Info"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:1901
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:1903
+msgid "Please Wait"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:2050
+msgid "Hints"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:2051
+msgid "<p>"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:2175
+msgid "Default"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:3227
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:3301
+msgid "Expand"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:3303
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:3611
+msgid "Save Changes"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:3307
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:3615
+msgid "Reset Section"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:3309
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:3617
+msgid "Reset All"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:3314
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:3622
+msgid "Working..."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:3334
+msgid "Settings Imported!"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:3349
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:3363
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:3377
+msgid "Settings Saved!"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:3395
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:3403
+msgid "error(s) were found!"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/framework.php:3411
+msgid "warning(s) were found!"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/class.redux_functions.php:251
+msgid "Dismiss"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/debug.php:41
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/debug.php:69
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/debug.php:76
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/background/field_background.php:125
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/color/field_color.php:72
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/color_gradient/field_color_gradient.php:79
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/color_gradient/field_color_gradient.php:91
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/color_rgba/field_color_rgba.php:77
+msgid "Transparent"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/background/field_background.php:142
+msgid "Background Repeat"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/background/field_background.php:158
+msgid "Background Clip"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/background/field_background.php:174
+msgid "Background Origin"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/background/field_background.php:189
+msgid "Background Size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/background/field_background.php:204
+msgid "Background Attachment"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/background/field_background.php:224
+msgid "Background Position"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/background/field_background.php:278
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/media/field_media.php:112
+msgid "No media selected"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/background/field_background.php:315
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/media/field_media.php:154
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/slides/field_slides.php:126
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/background/field_background.php:322
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/media/field_media.php:161
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/multi_text/field_multi_text.php:68
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/multi_text/field_multi_text.php:72
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/multi_text/field_multi_text.php:75
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/slides/field_slides.php:133
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/dimensions/field_dimensions.php:161
+msgid "Width"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/dimensions/field_dimensions.php:177
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:423
+msgid "Height"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/dimensions/field_dimensions.php:188
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/dimensions/field_dimensions.php:189
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/spacing/field_spacing.php:245
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/multi_text/field_multi_text.php:60
+msgid "Add More"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/select/field_select.php:82
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/select_image/field_select_image.php:62
+msgid "Select an item"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/select/field_select.php:126
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/select_image/field_select_image.php:143
+msgid "No items of this type were found."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/slides/field_slides.php:73
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/slides/field_slides.php:149
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/slides/field_slides.php:153
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/slides/field_slides.php:167
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/slides/field_slides.php:220
+#, php-format
+msgid "Delete %s"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/switch/field_switch.php:42
+msgid "On"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/switch/field_switch.php:49
+msgid "Off"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:226
+msgid "Font Family"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:227
+msgid "Font family"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:252
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:253
+msgid "Backup Font Family"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:267
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:274
+msgid "Font style"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:268
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:274
+msgid "Style"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:304
+msgid "Font subsets"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:305
+msgid "Font Subsets"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:306
+msgid "Subsets"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:306
+msgid "Font script"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:323
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:324
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:325
+msgid "Text Align"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:346
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:347
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:348
+msgid "Text Transform"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:369
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:370
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:371
+msgid "Font Variant"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:389
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:390
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:391
+msgid "Text Decoration"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:413
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:414
+msgid "Font Size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:414
+msgid "Size"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:422
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:423
+msgid "Line Height"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:431
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:432
+msgid "Word Spacing"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:440
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:441
+msgid "Letter Spacing"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:459
+msgid "Font Color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:461
+msgid "Font color"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:783
+msgid "Standard Fonts"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/fields/typography/field_typography.php:881
+msgid "Google Webfonts"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/import_export.php:78
+msgid "Import / Export Options"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/import_export.php:81
+msgid "Import Options"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/import_export.php:82
+msgid "Import from file"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/import_export.php:82
+msgid "Import from URL"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/import_export.php:90
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/import_export.php:94
+msgid "Import"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/import_export.php:94
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/import_export.php:97
+msgid "Export Options"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/import_export.php:100
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/import_export.php:104
+msgid "Copy"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/import_export.php:104
+msgid "Download"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/import_export.php:104
+msgid "Copy Link"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/import_export.php:140
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/import_export.php:149
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/import_export.php:150
+msgid "Import / Export"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/tracking.php:128
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/tracking.php:129
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatability."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/tracking.php:134
+msgid "Allow tracking"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/tracking.php:139
+msgid "Do not allow tracking"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/tracking.php:150
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/tracking.php:151
+msgid "Getting Started"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/tracking.php:151
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/tracking.php:151
+msgid "our documentation"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/tracking.php:152
+msgid "Redux Generator"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/tracking.php:152
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/tracking.php:153
+msgid "Redux Extensions"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/tracking.php:153
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/tracking.php:153
+msgid "extensions directory"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/tracking.php:154
+msgid "Like Redux?"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/tracking.php:154
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/tracking.php:154
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/tracking.php:154
+msgid "donation"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/tracking.php:155
+msgid "Newsletter"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/tracking.php:155
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/tracking.php:156
+msgid "Email address"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/tracking.php:156
+msgid "Subscribe"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/tracking.php:165
+msgid "Close"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/validation/color/validation_color.php:15
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/validation/color_rgba/validation_color_rgba.php:14
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/validation/email/validation_email.php:16
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/validation/numeric/validation_numeric.php:16
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/optionpanel/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/search.php:4
+#: W:\wamp\www\1_micron\wp-content\themes\micron/searchform.php:4
+msgid "Search"
+msgstr "Recherche"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/search.php:21
+msgid " search results for"
+msgstr "résultats de la recherche"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/search.php:55
+msgid "Suggestions:"
+msgstr "Suggestions:"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/search.php:58
+msgid "Make sure that all words are spelled correctly"
+msgstr "Assurez-vous que tous les mots sont correctement orthographiés"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/search.php:59
+msgid "Try different keywords"
+msgstr "Essayez différents mots-clés"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/search.php:60
+msgid "Try more general keywords"
+msgstr "Essayez d'autres mots-clés généraux"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/search.php:61
+msgid "Try fewer keywords"
+msgstr "Essayez avec moins de mots-clés"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/searchform.php:3
+msgid "Search for ..."
+msgstr "Recherche pour …"
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/single-ninzio-slider.php:219
+msgid "X coordinate:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/single-ninzio-slider.php:220
+msgid "Y coordinate:"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/single-ninzio-slider.php:223
+msgid "Animate-in"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/single-ninzio-slider.php:224
+msgid "Animate-out"
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/single-ninzio-slider.php:229
+msgid ""
+"In order to preview Ninzio Slider you need a device with a screen at least "
+"768 pixels wide."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/single-ninzio-slider.php:240
+msgid "You need to activate Ninzio Slider from Ninzio slider settings panel."
+msgstr ""
+
+#: W:\wamp\www\1_micron\wp-content\themes\micron/single-ninzio-slider.php:248
+msgid "You do not have permission to view this page."
+msgstr ""
